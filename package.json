@@ -1,6 +1,3 @@
-
-# package.json
-cat > package.json <<'JSON'
 {
   "name": "dni-relay",
   "version": "1.0.0",
