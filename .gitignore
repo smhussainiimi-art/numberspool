@@ -1,0 +1,7 @@
+cat > .gitignore <<'GIT'
+node_modules
+.env
+data.json
+npm-debug.log*
+.DS_Store
+GIT
